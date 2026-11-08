@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_block"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS block component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_block"
+path = "src/lib.rs"
